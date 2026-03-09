@@ -1,0 +1,5 @@
+Empid: 101 Empname: Rahul Empsalary: 66000.0 Empdeptno: 10 EmpemailId:rahul22@gmail.com Empgender:M
+Empid: 102 Empname: Rony Empsalary: 22000.0 Empdeptno: 10 EmpemailId:rony22@gmail.com Empgender:M
+Empid: 103 Empname: Swathi Empsalary: 77000.0 Empdeptno: 30 EmpemailId:ss22@gmail.com Empgender:F
+Empid: 104 Empname: Sonu Empsalary: 5500.0 Empdeptno: 30 EmpemailId:sonu22@gmail.com Empgender:M
+Empid: 105 Empname: Sonali Empsalary: 8800.0 Empdeptno: 50 EmpemailId:sona22@gmail.com Empgender:F
